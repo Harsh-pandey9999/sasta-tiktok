@@ -18,10 +18,3 @@ To start app run the following command.
 $ npm start
 ```
 
-# Preview
-
-## [🌐 See Live](https://shortapp.netlify.app/)
-
-![](/preview.png)
-
-## **Thank You!** ❣️
