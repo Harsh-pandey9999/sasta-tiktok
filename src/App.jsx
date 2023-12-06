@@ -75,7 +75,7 @@ function App() {
           </ul>
 
           <footer>
-            <small>© 2022 hicoders</small>
+            <small>© harsh pandey</small>
           </footer>
         </aside>
         <ShortContainer />
