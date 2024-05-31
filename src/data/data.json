@@ -1,19 +1,8 @@
 [
-    {
-        "id": "1",
-        "username": "Zach King",
-        "videoUrl": "https://github.com/hicodersofficial/images/blob/main/zach.mp4?raw=true",
-        "isFollowed": true,
-        "title": "Trying to help speed up the supply chain",
-        "profileUrl": "https://yt3.ggpht.com/ytc/AMLnZu_I4_Paw3h1eM6ASNhPpcfK4-E12zY7JSb7dn0iLA=s176-c-k-c0x00ffffff-no-rj-mo",
-        "reaction": {
-            "likes": "1.1M",
-            "comments": "40K",
-            "isLiked": true
-        }
+   
     },
     {
-        "id": "2",
+        "id": "1",
         "username": "Khaby Leme",
         "videoUrl": "https://github.com/hicodersofficial/images/blob/main/khaby1.mp4?raw=true",
         "isFollowed": false,
@@ -26,7 +15,7 @@
         }
     },
     {
-        "id": "3",
+        "id": "2",
         "username": "Younes Zarou",
         "videoUrl": "https://github.com/hicodersofficial/images/blob/main/younes.mp4?raw=true",
         "isFollowed": false,
@@ -39,7 +28,7 @@
         }
     },
     {
-        "id": "4",
+        "id": "3",
         "username": "Khaby Leme",
         "videoUrl": "https://github.com/hicodersofficial/images/blob/main/khaby2.mp4?raw=true",
         "isFollowed": false,
@@ -54,7 +43,7 @@
    
     },
     {
-        "id": "6",
+        "id": "4",
         "username": "Zach King",
         "videoUrl": "https://github.com/hicodersofficial/images/blob/main/zach2.mp4?raw=true",
         "isFollowed": false,
@@ -67,7 +56,7 @@
         }
     },
     {
-        "id": "7",
+        "id": "5",
         "username": "Big Buck Bunny",
         "videoUrl": "https://www.w3schools.com/tags/mov_bbb.ogg",
         "isFollowed": false,
