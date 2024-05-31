@@ -51,18 +51,7 @@
             "isLiked": false
         }
     },
-    {
-        "id": "5",
-        "username": "HiCoders",
-        "videoUrl": "https://github.com/hicodersofficial/images/blob/main/figma%20loader.mp4?raw=true",
-        "isFollowed": false,
-        "title": "✨ Figma loading animation! 😍🌈",
-        "profileUrl": "https://avatars.githubusercontent.com/u/69384657?v=4",
-        "reaction": {
-            "likes": "50K",
-            "comments": "1K",
-            "isLiked": true
-        }
+   
     },
     {
         "id": "6",
